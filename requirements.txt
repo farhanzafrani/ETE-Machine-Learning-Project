@@ -4,4 +4,7 @@ matplotlib
 seaborn
 tensorflow
 torch
+scikit-learn
+catboost
+xgboost
 -e .
